@@ -1,0 +1,61 @@
+vendor_id,vendor_name,abn,category,gst_registered,status,payment_terms_days,bsb,account
+V20001,Kestrel Packaging Pty Ltd,66 704 149 505,Packaging,Y,Active,14,804-590,64134851
+V20002,Mallee Grain Co Pty Ltd,26 154 692 813,Food Ingredients,Y,Active,45,976-868,43209380
+V20003,Harbourside Logistics Pty Ltd,32 859 912 358,Freight,Y,Active,30,505-941,83506278
+V20004,Glenrock Electrical Pty Ltd,51 588 891 746,Maintenance,Y,Active,30,925-720,31177110
+V20005,Ironbark Chemicals Pty Ltd,87 218 602 599,Chemicals,Y,Active,30,968-303,48695381
+V20006,Northpoint IT Solutions Pty Ltd,38 743 966 738,IT,Y,Active,14,252-442,41117308
+V20007,Southbank Packaging Pty Ltd,61 868 040 180,Packaging,Y,Active,30,109-089,51374437
+V20008,Ironbark Foods Pty Ltd,64 714 008 044,Food Ingredients,Y,Active,14,933-309,18031352
+V20009,Lakeside Logistics Pty Ltd,20 158 870 485,Freight,Y,Inactive,30,971-923,15572821
+V20010,Kingfisher Maintenance Pty Ltd,71 976 428 922,Maintenance,Y,Active,30,720-360,36367755
+V20011,Clearwater Chemicals Pty Ltd,71 539 473 978,Chemicals,Y,Active,14,459-367,94690538
+V20012,Banksia IT Solutions Pty Ltd,57 183 725 069,IT,Y,Active,45,574-979,32058464
+V20013,Flinders Pallets Pty Ltd,72 561 164 476,Packaging,Y,Active,60,609-479,23476165
+V20014,Tasman Grain Co Pty Ltd,60 615 911 928,Food Ingredients,Y,Active,30,580-070,42347086
+V20015,Mallee Freight Pty Ltd,75 210 450 263,Freight,Y,Active,30,668-338,67272527
+V20016,Ironbark Maintenance Pty Ltd,19 261 346 130,Maintenance,N,Active,14,661-845,59973635
+V20017,Granite Chemicals Pty Ltd,41 510 095 694,Chemicals,Y,Active,60,903-109,92137494
+V20018,Riverbend Technology Pty Ltd,55 964 174 803,IT,Y,Active,45,830-734,82576127
+V20019,Northpoint Pallets Pty Ltd,21 620 732 010,Packaging,Y,Active,30,628-830,78437406
+V20020,Southbank Ingredients Pty Ltd,71 660 276 239,Food Ingredients,Y,Inactive,45,612-534,64520460
+V20021,Highfield Freight Pty Ltd,30 655 675 423,Freight,N,Active,60,217-629,47359942
+V20022,Murray Maintenance Pty Ltd,63 704 157 872,Maintenance,Y,Active,30,643-095,59420106
+V20023,Lakeside Cleaning Supplies Pty Ltd,24 368 347 131,Chemicals,Y,Active,14,717-098,36890601
+V20024,Lyrebird Technology Pty Ltd,18 751 714 952,IT,Y,Active,14,236-694,77021085
+V20025,Summit Cartons Pty Ltd,87 684 448 515,Packaging,Y,Active,60,858-212,73499096
+V20026,Otway Ingredients Pty Ltd,71 043 428 817,Food Ingredients,Y,Active,30,880-748,65739971
+V20027,Murray Transport Pty Ltd,95 118 528 318,Freight,Y,Active,14,345-130,54946843
+V20028,Bellbird Maintenance Pty Ltd,41 407 915 917,Maintenance,Y,Active,30,814-125,97700683
+V20029,Redgum Chemicals Pty Ltd,54 122 208 077,Chemicals,Y,Active,30,867-885,58736231
+V20030,Goldfield Technology Pty Ltd,80 912 385 707,IT,Y,Active,14,509-839,17163336
+V20031,Harbourside Packaging Pty Ltd,45 668 060 649,Packaging,Y,Active,60,843-770,76535372
+V20032,Wattle Grain Co Pty Ltd,20 392 497 630,Food Ingredients,Y,Active,14,263-534,89863538
+V20033,Southbank Transport Pty Ltd,37 285 944 712,Freight,Y,Active,60,870-057,69701783
+V20034,Kestrel Facility Services Pty Ltd,65 060 331 520,Maintenance,Y,Active,45,729-271,63458095
+V20035,Murray Chemicals Pty Ltd,57 047 991 242,Chemicals,Y,Active,14,386-723,55194328
+V20036,Granite Technology Pty Ltd,67 510 553 418,IT,Y,Active,14,724-556,39876941
+V20037,Clearwater Cartons Pty Ltd,79 595 939 978,Packaging,Y,Active,30,795-187,56694259
+V20038,Bellbird Ingredients Pty Ltd,41 500 782 007,Food Ingredients,Y,Active,30,623-581,45958940
+V20039,Summit Logistics Pty Ltd,37 764 160 957,Freight,Y,Active,30,564-092,42771995
+V20040,Westbrook Facility Services Pty Ltd,91 209 085 021,Maintenance,N,Active,14,114-732,80750376
+V20041,Bayview Chemicals Pty Ltd,80 655 823 613,Chemicals,Y,Active,30,393-033,40342323
+V20042,Lyrebird IT Solutions Pty Ltd,41 836 075 367,IT,Y,Active,45,443-319,38551319
+V20043,Mallee Cartons Pty Ltd,44 021 897 292,Packaging,Y,Active,45,776-326,49783799
+V20044,Acacia Foods Pty Ltd,55 848 604 651,Food Ingredients,Y,Active,45,110-974,27872850
+V20045,Lyrebird Freight Pty Ltd,90 323 726 541,Freight,Y,Active,30,276-123,14385579
+V20046,Highfield Facility Services Pty Ltd,61 524 028 918,Maintenance,Y,Active,60,102-746,12809021
+V20047,Lakeside Chemicals Pty Ltd,87 139 361 736,Chemicals,Y,Active,14,683-338,62667305
+V20048,Murray IT Solutions Pty Ltd,90 222 658 823,IT,Y,Active,30,219-506,35269882
+V20049,Otway Pallets Pty Ltd,41 716 107 072,Packaging,Y,Active,60,497-623,65241451
+V20050,Redgum Grain Co Pty Ltd,79 882 675 060,Food Ingredients,Y,Active,30,914-978,21994702
+V20051,Summit Transport Pty Ltd,57 777 988 633,Freight,Y,Active,30,985-341,53447250
+V20052,Stonebridge Facility Services Pty Ltd,17 104 405 585,Maintenance,Y,Active,60,683-792,82021507
+V20053,Stonebridge Chemicals Pty Ltd,22 213 885 299,Chemicals,Y,Active,30,746-481,66622561
+V20054,Flinders IT Solutions Pty Ltd,54 259 325 439,IT,Y,Active,60,536-649,64726716
+V20055,Banksia Cartons Pty Ltd,65 928 923 081,Packaging,Y,Active,30,674-972,33270310
+V20056,Eastgate Grain Co Pty Ltd,81 577 587 175,Food Ingredients,Y,Active,30,671-767,94741651
+V20057,Bayview Transport Pty Ltd,63 161 479 823,Freight,Y,Active,45,212-774,11922413
+V20058,Jarrah Facility Services Pty Ltd,97 315 102 330,Maintenance,N,Active,14,758-403,96796498
+V20059,Kestrel Chemicals Pty Ltd,88 337 624 474,Chemicals,Y,Active,45,780-325,93996005
+V20060,Stonebridge IT Solutions Pty Ltd,39 424 283 535,IT,Y,Active,30,395-476,18774258

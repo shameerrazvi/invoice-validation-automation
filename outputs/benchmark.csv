@@ -1,0 +1,4 @@
+invoices,invoice_lines,posted_history,seconds,invoices_per_second,planted_issues,planted_caught,held
+303,479,2505,0.06,5021,64,64,62
+3030,4671,25057,0.179,16918,642,642,640
+10100,15811,83504,0.473,21335,2947,2947,2947

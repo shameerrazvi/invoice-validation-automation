@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.pytest_cache/
+.ipynb_checkpoints/
+
+# Generated database (rebuilt by run_pipeline.py)
+data/*.db
+
+# Excel lock files
+~$*.xlsx
+
+# OS / editors
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# LibreOffice / Excel temp files
+.~lock.*

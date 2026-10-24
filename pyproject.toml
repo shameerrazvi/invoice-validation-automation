@@ -1,0 +1,9 @@
+[project]
+name = "invoice-validation-automation"
+version = "1.0.0"
+description = "Pre-posting invoice validation in Excel VBA and Python"
+requires-python = ">=3.10"
+
+[tool.pytest.ini_options]
+pythonpath = ["."]
+testpaths = ["tests"]

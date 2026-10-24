@@ -1,0 +1,99 @@
+invoice_key,line_no,code,action,detail
+B00001,,V05,HOLD,PO 4507100226 not found
+B00001,,A01,REVIEW,"Total 23,756.74 needs a second approver (limit 10,000.00)"
+B00006,,V08,HOLD,"Invoice total 1,618.29 does not equal ex-GST plus GST (618.29)"
+B00013,,A01,REVIEW,"Total 10,010.00 needs a second approver (limit 10,000.00)"
+B00014,,A01,REVIEW,"Total 12,419.02 needs a second approver (limit 10,000.00)"
+B00015-DUP,,V04,HOLD,Same invoice as B00015 in this batch
+B00016,,V02,HOLD,No ABN on the invoice
+B00019,1,V08,HOLD,"Line total 1,103.60 but qty x price = 1,093.60"
+B00020,,A01,REVIEW,"Total 10,375.52 needs a second approver (limit 10,000.00)"
+B00021,,V03,HOLD,Bank account on invoice 718-288 40411374 differs from vendor master 933-309 18031352; confirm with the vendor on a known phone number
+B00023,,V04,HOLD,Already posted on 14/09/2026 as invoice 13102
+B00027,,V10,HOLD,"Invoice dated 20/11/2026, after the batch date"
+B00029,,A01,REVIEW,"Total 20,146.66 needs a second approver (limit 10,000.00)"
+B00030,,V05,HOLD,PO 4507100322 not found
+B00036,1,V07,HOLD,Qty 2 invoiced but only 1 received
+B00040,,A01,REVIEW,"Total 20,453.40 needs a second approver (limit 10,000.00)"
+B00047,,V01,HOLD,Vendor V20020 is inactive
+B00050,,A01,REVIEW,"Total 12,493.20 needs a second approver (limit 10,000.00)"
+B00052,,V08,HOLD,Invoice total 686.99 does not equal ex-GST plus GST (436.99)
+B00054,,A01,REVIEW,"Total 13,106.80 needs a second approver (limit 10,000.00)"
+B00059,1,V06,HOLD,Unit price 174.66 is 12.2% above PO price 155.73
+B00060,1,V09,HOLD,Line GST 113.10 should be 75.40
+B00063,1,V08,HOLD,Line total 225.10 but qty x price = 175.10
+B00066,,A01,REVIEW,"Total 11,984.28 needs a second approver (limit 10,000.00)"
+B00068,1,V09,HOLD,GST 26.68 charged on a GST-free item
+B00068,2,V09,HOLD,GST 61.24 charged on a GST-free item
+B00068,,V09,HOLD,Vendor is not registered for GST but charged 87.92 GST
+B00069,1,V06,HOLD,Unit price 23.18 is 13.1% above PO price 20.50
+B00072,,V10,REVIEW,"Invoice dated 08/09/2025, more than 365 days old"
+B00072,,A01,REVIEW,"Total 19,962.80 needs a second approver (limit 10,000.00)"
+B00074,,V02,HOLD,ABN 25 940 383 092 fails the ATO checksum
+B00075,,A01,REVIEW,"Total 18,147.80 needs a second approver (limit 10,000.00)"
+B00077,1,V06,HOLD,Unit price 431.46 is 9.3% above PO price 394.71
+B00077,,A01,REVIEW,"Total 20,636.46 needs a second approver (limit 10,000.00)"
+B00080,,V05,HOLD,No PO number on the invoice
+B00087,,A01,REVIEW,"Total 12,353.34 needs a second approver (limit 10,000.00)"
+B00091,,V04,HOLD,Already posted on 29/09/2026 as invoice INV-31938
+B00096,1,V09,HOLD,GST 290.64 charged on a GST-free item
+B00102,,A01,REVIEW,"Total 20,965.67 needs a second approver (limit 10,000.00)"
+B00104-DUP,,V04,HOLD,Same invoice as B00104 in this batch
+B00107,1,V06,HOLD,Unit price 80.96 is 3.9% above PO price 77.90
+B00109,,V04,HOLD,Already posted on 18/10/2026 as invoice INV0029983
+B00113,,A01,REVIEW,"Total 11,964.00 needs a second approver (limit 10,000.00)"
+B00125,1,V06,HOLD,Unit price 14.62 is 14.2% above PO price 12.80
+B00126,2,V09,HOLD,Line GST 39.73 should be 36.12
+B00127,1,V06,HOLD,Unit price 32.87 is 3.6% above PO price 31.73
+B00133,,A01,REVIEW,"Total 21,832.10 needs a second approver (limit 10,000.00)"
+B00134,,V05,HOLD,PO 4500100137 belongs to vendor V20035
+B00137,1,V07,HOLD,Qty 2 invoiced but only 1 received
+B00139,,A01,REVIEW,"Total 11,782.43 needs a second approver (limit 10,000.00)"
+B00141,1,V08,HOLD,"Line total 5,196.40 but qty x price = 5,186.40"
+B00143,,V03,HOLD,Bank account on invoice 269-337 63628999 differs from vendor master 219-506 35269882; confirm with the vendor on a known phone number
+B00147,1,V07,HOLD,Qty 2 invoiced but only 1 received
+B00148,,V03,HOLD,Bank account on invoice 615-696 69093345 differs from vendor master 236-694 77021085; confirm with the vendor on a known phone number
+B00148,,A01,REVIEW,"Total 18,034.52 needs a second approver (limit 10,000.00)"
+B00150,,V05,HOLD,PO 4500100004 belongs to vendor V20039
+B00158,3,V07,HOLD,Qty 168 invoiced but only 137 received
+B00161,,A01,REVIEW,"Total 16,784.68 needs a second approver (limit 10,000.00)"
+B00164-DUP,,V04,HOLD,Same invoice as B00164 in this batch
+B00166,,A01,REVIEW,"Total 17,075.58 needs a second approver (limit 10,000.00)"
+B00167,,V03,HOLD,Bank account on invoice 648-401 79119407 differs from vendor master 114-732 80750376; confirm with the vendor on a known phone number
+B00171,,V01,HOLD,Vendor V20009 is inactive
+B00177,1,V09,HOLD,GST 307.52 charged on a GST-free item
+B00183,4,V07,HOLD,Qty 5 invoiced but only 3 received
+B00192,,V04,HOLD,Already posted on 25/09/2026 as invoice TI93356
+B00198,1,V07,HOLD,Qty 3 invoiced but only 2 received
+B00204,,V02,HOLD,ABN 14 988 447 586 does not match vendor master ABN 61 868 040 180
+B00206,,A01,REVIEW,"Total 12,290.58 needs a second approver (limit 10,000.00)"
+B00207,,A01,REVIEW,"Total 12,511.21 needs a second approver (limit 10,000.00)"
+B00210,1,V06,HOLD,Unit price 36.36 is 13.0% above PO price 32.17
+B00215,,A01,REVIEW,"Total 16,798.62 needs a second approver (limit 10,000.00)"
+B00220,,V10,HOLD,"Invoice dated 27/10/2026, after the batch date"
+B00222,1,V07,HOLD,Qty 2 invoiced but only 1 received
+B00225,1,V06,HOLD,Unit price 3.05 is 3.4% above PO price 2.95
+B00232,,V02,HOLD,ABN 83 034 531 707 does not match vendor master ABN 21 620 732 010
+B00234,1,V09,HOLD,Line GST 0.00 should be 27.67
+B00236,,V02,HOLD,ABN 75 590 145 613 fails the ATO checksum
+B00236,,A01,REVIEW,"Total 22,167.97 needs a second approver (limit 10,000.00)"
+B00242,,A01,REVIEW,"Total 10,229.12 needs a second approver (limit 10,000.00)"
+B00246,1,V07,HOLD,Qty 6 invoiced but only 5 received
+B00249,,V08,HOLD,"Invoice total 5,192.41 does not equal ex-GST plus GST (4,942.41)"
+B00257,,A01,REVIEW,"Total 19,249.07 needs a second approver (limit 10,000.00)"
+B00260,,A01,REVIEW,"Total 18,682.09 needs a second approver (limit 10,000.00)"
+B00270,,V04,HOLD,Already posted on 26/09/2026 as invoice INV-86085
+B00277,,A01,REVIEW,"Total 11,486.64 needs a second approver (limit 10,000.00)"
+B00278,,A01,REVIEW,"Total 12,867.18 needs a second approver (limit 10,000.00)"
+B00279,,V03,HOLD,Bank account on invoice 304-892 71935421 differs from vendor master 858-212 73499096; confirm with the vendor on a known phone number
+B00280,,A01,REVIEW,"Total 16,426.69 needs a second approver (limit 10,000.00)"
+B00283,,V10,REVIEW,"Invoice dated 16/08/2025, more than 365 days old"
+B00283,,A01,REVIEW,"Total 22,170.92 needs a second approver (limit 10,000.00)"
+B00286,,V02,HOLD,No ABN on the invoice
+B00287,,V04,HOLD,Already posted on 19/09/2026 as invoice INV-64399
+B00288,1,V07,HOLD,Qty 14 invoiced but only 9 received
+B00290,,V05,HOLD,No PO number on the invoice
+B00292,1,V06,HOLD,Unit price 93.53 is 7.1% above PO price 87.33
+B00295,1,V07,HOLD,Qty 4 invoiced but only 3 received
+B00299,1,V06,HOLD,Unit price 122.53 is 13.6% above PO price 107.90
+B00300,,A01,REVIEW,"Total 12,033.54 needs a second approver (limit 10,000.00)"

@@ -1,0 +1,65 @@
+invoice_key,code,note
+B00001,V05,PO not found
+B00006,V08,invoice total does not equal sum of lines
+B00015-DUP,V04,same invoice twice in the batch
+B00016,V02,ABN missing
+B00019,V08,line total does not equal qty x price
+B00021,V03,invoice shows different bank account
+B00023,V04,already posted
+B00027,V10,invoice dated in the future
+B00030,V05,PO not found
+B00036,V07,billed for goods not yet received
+B00047,V01,vendor deactivated in vendor master
+B00052,V08,invoice total does not equal sum of lines
+B00059,V06,unit price above PO
+B00060,V09,line GST not 10%
+B00063,V08,line total does not equal qty x price
+B00068,V09,vendor not registered for GST but charged GST
+B00069,V06,unit price above PO
+B00072,V10,invoice dated over 12 months ago
+B00074,V02,ABN checksum
+B00077,V06,unit price above PO
+B00080,V05,PO none
+B00091,V04,already posted
+B00096,V09,GST charged on GST-free item
+B00104-DUP,V04,same invoice twice in the batch
+B00107,V06,unit price above PO
+B00109,V04,already posted
+B00125,V06,unit price above PO
+B00126,V09,line GST not 10%
+B00127,V06,unit price above PO
+B00134,V05,PO closed
+B00137,V07,billed for goods not yet received
+B00141,V08,line total does not equal qty x price
+B00143,V03,invoice shows different bank account
+B00147,V07,billed for goods not yet received
+B00148,V03,invoice shows different bank account
+B00150,V05,PO other vendor
+B00158,V07,billed for goods not yet received
+B00164-DUP,V04,same invoice twice in the batch
+B00167,V03,invoice shows different bank account
+B00171,V01,vendor deactivated in vendor master
+B00177,V09,GST charged on GST-free item
+B00183,V07,billed for goods not yet received
+B00192,V04,already posted
+B00198,V07,billed for goods not yet received
+B00204,V02,ABN different
+B00210,V06,unit price above PO
+B00220,V10,invoice dated in the future
+B00222,V07,billed for goods not yet received
+B00225,V06,unit price above PO
+B00232,V02,ABN different
+B00234,V09,line GST not 10%
+B00236,V02,ABN checksum
+B00246,V07,billed for goods not yet received
+B00249,V08,invoice total does not equal sum of lines
+B00270,V04,already posted
+B00279,V03,invoice shows different bank account
+B00283,V10,invoice dated over 12 months ago
+B00286,V02,ABN missing
+B00287,V04,already posted
+B00288,V07,billed for goods not yet received
+B00290,V05,PO none
+B00292,V06,unit price above PO
+B00295,V07,billed for goods not yet received
+B00299,V06,unit price above PO
